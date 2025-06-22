@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raushankumar74
-- 👀 I’m interested in Software developer
-- 🌱 I’m currently learning Java Programing 
-- 💞️ I’m looking to collaborate in Android devloper 
+- 👀 I’m interested in frontend Developement
+- 🌱 I’m currently learning React Native | Animations | Web Performance Optimization 
+- 💞️ I’m looking to collaborate in frontend Developement
 - 📫 How to reach me ...
 
 <!---
