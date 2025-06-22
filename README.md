@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raushankumar74
-- 👀 I’m interested in frontend Developement
+- 👀 I’m interested in frontend Development
 - 🌱 I’m currently learning React Native | Animations | Web Performance Optimization 
-- 💞️ I’m looking to collaborate in frontend Developement
+- 💞️ I’m looking to collaborate in frontend Development
 - 📫 How to reach me ...
 
 <!---
